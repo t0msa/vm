@@ -1,6 +1,7 @@
 Going to add documentation about the language here later.
-#VM
+
+# VM
 Usage: vm.exe <input file>
 
-#Assembler
+# Assembler
 Usage: assembler.exe <input file> <output file>
